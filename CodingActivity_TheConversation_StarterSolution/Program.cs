@@ -7,6 +7,7 @@ namespace CodingActivity_TheConversation_StarterSolution
         // *************************************************************
         // Application:     The Conversation Starter Solution
         // Author:          Velis, John E
+        // Description:     Start solution for the project.
         // Date Created:    5/20/2016
         // Date Revised:    7/7/2016
         // *************************************************************
